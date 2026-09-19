@@ -18,9 +18,11 @@
   * *Material:* Galvanized or epoxy-coated steel wire shelving and a fixed hanging/drying rod, rated for wet-load use.
   * *Sourcing:* Direct commercial accounts with wire shelving distributors (e.g., Metro, Regency) or regional steel service centers. Pre-sized in standard depths to eliminate job-site cutting.
   * *Anchoring:* Wall brackets secured to studs via 1/4" structural lag screws, positioned above and beside the washer/dryer footprint.
+  * *Wear-Point Hardware:* Wall bracket contact points spec'd with nylon/Delrin bushings rather than bare coated-metal-on-metal. Given routine humidity/moisture exposure near the washer/dryer, contact points additionally spec galvanized (not just epoxy-coated) steel — powder/epoxy coat wear here is a real rust risk, not just cosmetic, unlike a dry closet or pantry install.
 * **Tier 2 (The Utility Cabinet System):**
   * *Material:* Powder-coated steel cabinets and adjustable shelving, pull-out hamper bins, over-appliance shelving.
   * *Sourcing:* Commercial OEM storage suppliers (e.g., Schulte, Knape & Vogt) at 40–50% off retail.
+  * *Wear-Point Hardware:* Bracket clips and pull-out bin rails spec'd with nylon/Delrin bushings at contact/slide points; galvanized substrate at contact zones given the room's humidity.
 * **Tier 3 (The Custom Laundry Suite):**
   * *Substrates:* 3/4" Thermally Fused Laminate (TFL) over industrial-grade MDF (80% of builds to eliminate on-site painting/finishing), or wood veneer for a kitchen-matched cabinetry look. Butcher block or quartz folding-counter top.
   * *Sourcing:* 4'x8' sheets via regional architectural panel suppliers; utility sink and faucet via plumbing supply distributor (plumbing hookup quoted separately, licensed-plumber sign-off required).
@@ -142,3 +144,4 @@ $$\text{Linear Foot Retail Price} = \frac{\text{Direct Material Cost/ft} + \text
 * **Lifetime Structural Guarantee:** Covers wall anchoring integrity, rod/track failure, and structural joinery for homeownership duration.
 * **5-Year Mechanical Warranty:** Covers soft-close drawer slides, hinges, fold-down mechanisms, and edge-banding.
 * **Weight Limits:** 200 lbs/linear foot for Tier 1; 100 lbs/linear foot for Tiers 2 & 3.
+* **Coating Wear Exclusion:** Powder-coat/epoxy wear at moving contact points is cosmetic and excluded from the Lifetime Structural Guarantee where galvanized substrate is used at the contact zone (per the humidity-driven sourcing spec above); the underlying steel's load rating is unaffected either way. Field techs carry a touch-up powder-coat pen for warranty-visit spot repair.
